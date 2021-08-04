@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+/*
+Modelo de caixa
+*/
+
+.conteudo {
+    color: white;
+    background: blue;
+    border: 1px solid gray;
+    width: 250px;
+    height: 250px;
+    float: right;
+}
